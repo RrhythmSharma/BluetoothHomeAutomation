@@ -3,7 +3,7 @@
 ### Description
 A solution to control home appliances using a Bluetooth device(Android Smartphone).
 
-This repository consists of source code for an Android app as well as Arduino configuration.
+This repository consists of source code for an Android app as well as 8051 microcontroller code.
 
 ### Requirements
 1. 8051 microcontroller
