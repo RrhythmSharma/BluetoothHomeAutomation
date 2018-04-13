@@ -6,7 +6,7 @@ A solution to control home appliances using a Bluetooth device(Android Smartphon
 This repository consists of source code for an Android app as well as Arduino configuration.
 
 ### Requirements
-1. Arduino Development Board
+1. 8051 microcontroller
 2. HC-05 or HC-06 Bluetooth Module
 3. 5V DC / 220V AC Relays
 4. Android Bluetooth Device
@@ -22,9 +22,6 @@ This repository consists of source code for an Android app as well as Arduino co
 * Connect 220V AC Line to Pole and Load(appliance) to NO of the relay
 * Power the Arduino board and you're ready to use. Refer to circuit diagram for setup
 
-### Circuit Diagram
-![curcuit diagram](https://raw.githubusercontent.com/KManiKumarReddy/Bluetooth-Home-Automation/master/circuit.png)
-
 ### How to use
 * Build an install the app on an Android Bluetooth device.
 * Turn Bluetooth ON and pair with HC-05 using passcode 1234 (default passcode, you are free to change)
@@ -32,18 +29,10 @@ This repository consists of source code for an Android app as well as Arduino co
 * Use ON/OFF buttons to control the appliance
 
 ### Purpose
-Mini Project for Bachelor of Technology, CVR College of Engineering, Hyderabad
-
-### License
-This Source Code Form is subject to the terms of the Mozilla Public
-License, v. 2.0. If a copy of the MPL was not distributed with this
-file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-Any copyright is dedicated to the Public Domain.
-http://creativecommons.org/publicdomain/zero/1.0/
+Mini Project for Bachelor of Technology, Rajasthan Technical University, Rajasthan.
 
 ### Developed by
-Mani Kumar Reddy K, Pramod Deshpande and Mallikarjun K
+Rhythm Sharma
 
 
 
